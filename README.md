@@ -12,12 +12,14 @@ Este é um projeto que visa a coleta, análise e visualização de indicadores e
 ## Instalação
 
 1. Clone o repositório para o seu ambiente local.
+
 `git clone https://github.com/seu-usuario/Indicadores-Economicos.git`
 
 
 2. Certifique-se de ter Python 3.6 ou superior instalado.
 
 3. Instale as dependências utilizando o gerenciador de pacotes de sua preferência.
+
 `pip install -r requirements.txt`
 
 ## Uso
