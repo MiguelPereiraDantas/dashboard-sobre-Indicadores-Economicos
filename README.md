@@ -12,23 +12,23 @@ Este é um projeto que visa a coleta, análise e visualização de indicadores e
 ## Instalação
 
 1. Clone o repositório para o seu ambiente local.
-git clone https://github.com/seu-usuario/Indicadores-Economicos.git
+`git clone https://github.com/seu-usuario/Indicadores-Economicos.git`
 
 
 2. Certifique-se de ter Python 3.6 ou superior instalado.
 
 3. Instale as dependências utilizando o gerenciador de pacotes de sua preferência.
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Uso
 
 1. Execute o script principal para coletar os dados mais recentes:
-python coleta_dados.py
+`python coleta_dados.py`
 
 2. Utilize os scripts de análise para examinar os dados coletados.
 
 3. Execute o aplicativo de visualização para ver gráficos interativos dos indicadores econômicos:
-python app.py
+`python app.py`
 
 
 ## Contribuição
@@ -37,13 +37,15 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 
 1. Faça um fork do repositório.
 2. Crie uma branch para suas modificações:
-git checkout -b feature/MinhaContribuicao
+
+`git checkout -b feature/MinhaContribuicao`
 
 3. Faça as modificações e commit:
 git commit -am 'Adicionando MinhaContribuição'
 
 4. Faça push da branch para o seu fork:
-git push origin feature/MinhaContribuicao
+
+`git push origin feature/MinhaContribuicao`
 
 5. Abra um pull request no repositório original.
 
