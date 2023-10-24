@@ -25,11 +25,13 @@ Este é um projeto que visa a coleta, análise e visualização de indicadores e
 ## Uso
 
 1. Execute o script principal para coletar os dados mais recentes:
+
 `python coleta_dados.py`
 
 2. Utilize os scripts de análise para examinar os dados coletados.
 
 3. Execute o aplicativo de visualização para ver gráficos interativos dos indicadores econômicos:
+
 `python app.py`
 
 
